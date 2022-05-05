@@ -1,0 +1,41 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=project_counter100
+
+[Library]
+project_counter100=.\project_counter100.LIB
+
+[$LibMap$]
+project_counter100=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[Groups]
+TestBench=1
+
+[Files]
+/project_counter100.vhd=-1
+TestBench/counter_to100_entity_TB.vhd=-1
+TestBench/counter_to100_entity_TB_runtest.do=-1
+
+[Files.Data]
+.\src\project_counter100.vhd=VHDL Source Code
+.\src\TestBench\counter_to100_entity_TB.vhd=VHDL Test Bench
+.\src\TestBench\counter_to100_entity_TB_runtest.do=Macro
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=counter_to100_entity|counter_to100_arch|0 counter_to100_entity_tb|tb_architecture|0 
+ShowHide=ShowTopLevel
+Selected=

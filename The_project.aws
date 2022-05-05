@@ -1,0 +1,12 @@
+[Version]
+Version=8.1
+[Designs]
+project_counter100=.\project_counter100\project_counter100.adf
+[Expand]
+project_counter100=1
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=

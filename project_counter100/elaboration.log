@@ -1,0 +1,19 @@
+elbread.dll ver. 1.0.5.375 Sat Jan 01 02:56:58 2022
+
+
+------------------------------------------------------------------
+Entity                   | Architecture       | Library         
+------------------------------------------------------------------
+counter_to100_entity_tb  | tb_architecture    | project_counter100
+counter_to100_entity     | counter_to100_arch | project_counter100
+------------------------------------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+textio              | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+-----------------------------
